@@ -1,2 +1,3 @@
 # CodespaceTask
-learning how to code.
+learning how to code using VSC, Github and Github Desktop.
+Commit message
